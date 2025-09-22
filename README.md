@@ -130,7 +130,7 @@ END
 |  2005                   |   44                     |
 |  2006                   |   34                     |
 #### Manual Calculations
-![INSUB](https://github.com/user-attachments/assets/046321fc-ef60-4170-a251-c257bafdb3d4)
+![INSUB](https://github.com/balakjsec-oss/ARITHMETIC-OPERATIONS-USING-8086/blob/e0a7f56a022b1bd65111bec6365b1ed00ea9e090/IMG-20250922-WA0006%5B1%5D2.jpg)
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -187,7 +187,7 @@ END
 |  2005                   |   5A                     |
 |  2006                   |   4B                     |
 #### Manual Calculations
-![IMG-20250919-WA0013](https://github.com/user-attachments/assets/77ba623e-f8a1-4225-aeb3-c94efc2447fd)
+![IMG-20250919-WA0013](https://github.com/balakjsec-oss/ARITHMETIC-OPERATIONS-USING-8086/blob/c947561a7c5c27a13ba7e692d950baa4beddf639/IMG-20250922-WA0005%5B1%5D3.jpg)
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 <img width="641" height="420" alt="Screenshot 2025-09-19 140347" src="https://github.com/user-attachments/assets/4eca69da-9b9c-4aca-9201-2e87602133d6" />
@@ -241,7 +241,7 @@ END
 |  2006                   |   02                     |
 
 #### Manual Calculations
-![INDIVI](https://github.com/user-attachments/assets/022d6d27-c89a-4c0c-8a11-34b42d78ff3d)
+![INDIVI](https://github.com/balakjsec-oss/ARITHMETIC-OPERATIONS-USING-8086/blob/c947561a7c5c27a13ba7e692d950baa4beddf639/IMG-20250922-WA0007%5B1%5D4.jpg)
 
 ## OUTPUT FROM MASM SOFTWARE
 <img width="640" height="438" alt="Screenshot 2025-09-20 090533" src="https://github.com/user-attachments/assets/63b8a557-cd78-46c3-b992-2b72cdbb4e93" />
