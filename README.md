@@ -73,9 +73,9 @@ END
 ![IMG-20250919-WA0012](https://github.com/user-attachments/assets/d388ca81-4f72-460c-a220-a15fd99c4a06)
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="639" height="422" alt="Screenshot 2025-09-12 085412" src="https://github.com/user-attachments/assets/2f69010e-4486-49f0-bdfd-8f4a97d7583d" />
 
 <img width="639" height="422" alt="Screenshot 2025-09-12 085412" src="https://github.com/balakjsec-oss/ARITHMETIC-OPERATIONS-USING-8086/blob/40a9ec629fc14c6007691a2213caa5718626089d/Screenshot%202025-09-22%20083929.png" />
+
 ## 2. SUBTRACTION
 
 #### Algorithm
