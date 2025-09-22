@@ -70,7 +70,8 @@ END
 |  2006                   |   00                     |
 
 #### Manual Calculations
-![IMG-20250919-WA0012](https://github.com/user-attachments/assets/d388ca81-4f72-460c-a220-a15fd99c4a06)
+![IMG-20250919-WA0012](https://github.com/balakjsec-oss/ARITHMETIC-OPERATIONS-USING-8086/blob/ce6d8d46477076e837cabdc63be59b20efa60972/WhatsApp%20Image%202025-09-22%20at%2009.29.28_de80e59e1.jpg)
+
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
